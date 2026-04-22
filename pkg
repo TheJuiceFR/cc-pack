@@ -1,8 +1,7 @@
-local package = {
+{
 	version="1.0.1",
 	description="pack: API for packing up a folder of stuff into a file.",
 	provides={"/lib/pack.lua"},
 	depends={"ccinit"},
 	optDepends={},
 }
-return package
